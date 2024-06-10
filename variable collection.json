@@ -1,0 +1,19 @@
+{
+  "dark bkg": {
+    "value": "#000000ff",
+    "type": "color",
+    "blendMode": "normal"
+  },
+  "white": {
+    "value": "#ffffffff",
+    "type": "color",
+    "blendMode": "normal"
+  },
+  "container": {
+    "background": {
+      "value": "#0000004d",
+      "type": "color",
+      "blendMode": "normal"
+    }
+  }
+}

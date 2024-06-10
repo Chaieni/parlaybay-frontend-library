@@ -1,0 +1,98 @@
+{
+  "body": {
+    "sm": {
+      "regular": {
+        "fontSize": {
+          "value": 10,
+          "type": "dimension"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Barlow",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "lineHeight": {
+          "value": 12,
+          "type": "dimension"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "string"
+        }
+      },
+      "caps": {
+        "fontSize": {
+          "value": 10,
+          "type": "dimension"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Barlow",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 400,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "lineHeight": {
+          "value": 12,
+          "type": "dimension"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "dimension"
+        },
+        "textCase": {
+          "value": "uppercase",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

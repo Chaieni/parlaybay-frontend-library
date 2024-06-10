@@ -1,0 +1,14 @@
+{
+  "primary-500": {
+    "value": "#9f2121ff",
+    "type": "color",
+    "description": "Embedded theme",
+    "blendMode": "normal"
+  },
+  "card container_bottom": {
+    "value": "#00000000",
+    "type": "color",
+    "description": "",
+    "blendMode": "normal"
+  }
+}

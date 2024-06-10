@@ -1,0 +1,66 @@
+{
+  "light": {
+    "foreground": {
+      "primary": {
+        "value": "{primitive.color.black}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "secondary": {
+        "value": "{primitive.color.white-a10}",
+        "type": "color"
+      }
+    },
+    "container": {
+      "border-secondary": {
+        "value": "{primitive.color.white-a20}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{primitive.color.black-a10}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{primitive.color.white-a60}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{primitive.color.white-a50}",
+        "type": "color"
+      }
+    }
+  },
+  "dark": {
+    "foreground": {
+      "primary": {
+        "value": "{primitive.color.white}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "secondary": {
+        "value": "{primitive.color.black-a10}",
+        "type": "color"
+      }
+    },
+    "container": {
+      "border-secondary": {
+        "value": "{primitive.color.white-a10}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{primitive.color.white-a10}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{primitive.color.black-a60}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{primitive.color.white-a10}",
+        "type": "color"
+      }
+    }
+  }
+}

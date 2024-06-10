@@ -1,0 +1,56 @@
+{
+  "colors": {
+    "primary-600": {
+      "value": "#ba352cff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-100": {
+      "value": "#f9e7e5ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary_disabled": {
+      "value": "#efcecbff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-200": {
+      "value": "#f1d9d6ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-300": {
+      "value": "#efcecbff",
+      "type": "color",
+      "description": "Disabled",
+      "blendMode": "normal"
+    },
+    "primary-400": {
+      "value": "#dc8e85ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-500[main]": {
+      "value": "#9f2121ff",
+      "type": "color",
+      "description": "Main",
+      "blendMode": "normal"
+    },
+    "primary-700": {
+      "value": "#b61f15ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-800": {
+      "value": "#4b1009ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "primary-900": {
+      "value": "#340a04ff",
+      "type": "color",
+      "blendMode": "normal"
+    }
+  }
+}

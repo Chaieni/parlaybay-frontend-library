@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "gradient",
+    "color",
+    "font",
+    "properties",
+    "mode",
+    "product theme",
+    "spacing",
+    "variable collection",
+    "colors",
+    "typography"
+  ]
+}

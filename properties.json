@@ -1,0 +1,96 @@
+{
+  "radius": {
+    "radius-md-lg-2x": {
+      "value": "{_primitive_.values.24px-(18pt)}",
+      "type": "dimension"
+    },
+    "radius-infinity": {
+      "value": "{_primitive_.values.infinity}",
+      "type": "dimension"
+    },
+    "radius-none": {
+      "value": "{_primitive_.values.null}",
+      "type": "dimension"
+    },
+    "radius-sm-4x": {
+      "value": "{_primitive_.values.8px-(6pt)}",
+      "type": "dimension"
+    },
+    "radius-sm-2x": {
+      "value": "{_primitive_.values.4px-(3pt)}",
+      "type": "dimension"
+    }
+  },
+  "padding": {
+    "padding-4px": {
+      "value": "{_primitive_.values.4px-(3pt)}",
+      "type": "dimension"
+    },
+    "padding-64px": {
+      "value": "{_primitive_.values.64px-(48pt)}",
+      "type": "dimension"
+    },
+    "padding-12px": {
+      "value": "{_primitive_.values.12px-(9pt)}",
+      "type": "dimension"
+    },
+    "padding-8px": {
+      "value": "{_primitive_.values.8px-(6pt)}",
+      "type": "dimension"
+    },
+    "padding-null": {
+      "value": "{_primitive_.values.null}",
+      "type": "dimension"
+    },
+    "padding-6px": {
+      "value": "{_primitive_.values.6px-(4․5pt)}",
+      "type": "dimension"
+    },
+    "padding-2px": {
+      "value": "{_primitive_.values.2px-(1․5pt)}",
+      "type": "dimension"
+    },
+    "padding-24px": {
+      "value": "{_primitive_.values.24px-(18pt)}",
+      "type": "dimension"
+    },
+    "padding-16px": {
+      "value": "{_primitive_.values.16px-(12pt)}",
+      "type": "dimension"
+    },
+    "padding-128px": {
+      "value": "{_primitive_.values.128px-(96pt)}",
+      "type": "dimension"
+    },
+    "padding-48px": {
+      "value": "{_primitive_.values.48px-(36pt)}",
+      "type": "dimension"
+    },
+    "padding-256px": {
+      "value": "{_primitive_.values.256px-(192pt)}",
+      "type": "dimension"
+    },
+    "padding-32px": {
+      "value": "{_primitive_.values.32px-(24pt)}",
+      "type": "dimension"
+    },
+    "padding-96px": {
+      "value": "{_primitive_.values.96px-(72pt)}",
+      "type": "dimension"
+    }
+  },
+  "stroke": {
+    "stroke-sm": {
+      "value": "{_primitive_.values.1px-(0․75pt)}",
+      "type": "dimension"
+    },
+    "stroke-lg": {
+      "value": "{_primitive_.values.4px-(3pt)}",
+      "type": "dimension"
+    },
+    "stroke-md": {
+      "value": "{_primitive_.values.2px-(1․5pt)}",
+      "type": "dimension"
+    }
+  }
+}
